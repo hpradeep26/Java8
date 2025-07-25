@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.java.features.bifunctions.supplier&apos; to &apos;com.java.features.supplier&apos;&#x0D;&#x0A;- Original project: &apos;Java8Features&apos;&#x0D;&#x0A;- Original element: &apos;Java8Features/src/com.java.features.bifunctions.supplier&apos;&#x0D;&#x0A;- Renamed element: &apos;Java8Features/src/com.java.features.supplier&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.java.features.bifunctions.supplier&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.java.features.bifunctions.supplier" name="com.java.features.supplier" qualified="false" references="true" stamp="1723483421399" textual="false" version="1.0"/>
+</session>
